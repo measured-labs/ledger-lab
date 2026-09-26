@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ledger-lab
+
+server:
+  port: 8104
